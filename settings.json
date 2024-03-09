@@ -47,7 +47,7 @@
                     "VERSION":"",
                     "Agent":"com.google.android.youtube/17.10.35 (Linux; U; Android 12; GB) gzip",
                     "주소":"https://www.youtube.com/youtubei/v1/player?key=AIzaSyA8eiZmM1FaDVjRy-df2KTyQ_vz_yYM39w",
-                    "정보":"{'videoId': 'code','context': {'client': {'clientName': 'ANDROID','clientVersion': '17.10.35','androidSdkVersion': 30,'hl': 'en','gl': 'US','utcOffsetMinutes': 0 }}}"
+                    "정보":"{'videoId': 'code','context': {'client': {'clientName': 'ANDROID_TESTSUITE','clientVersion': '19','androidSdkVersion': 30,'hl': 'en','gl': 'US','utcOffsetMinutes': 0 }}}"
                 }
             }
         },
