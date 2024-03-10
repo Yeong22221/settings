@@ -2,14 +2,14 @@
     "언어": "모든언어",
     "앱설정": {
         "버전": {
-            "코드": 6,
-            "이름": "1.0.6",
+            "코드": 7,
+            "이름": "1.0.7",
             "날짜": "2024년 2월 20일 오전 3시",
             "패키지": "com.musicyeong.pmusic",
             "패키지주소": "com.musicyeong.pmusic",
             "버전메세지": {
                 "all": "The following fixes have been made:\n\n1. Fixed an issue with loading earth music.",
-                "ko": "다음 사항이 변경 되었습니다.\n\n1. 음악 재생할 때 종료되는 문제 수정.\n2. 텍스트가 잘 못 표기되는 문제 수정."
+                "ko": "다음 사항이 변경 되었습니다.\n\n1. 지구 재생 및 다운로드 오류 수정."
             }
         },
         "리뷰":{
